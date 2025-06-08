@@ -1,5 +1,6 @@
 package com.jcms.sayweight;
 
+
 import android.bluetooth.BluetoothDevice;
 import android.bluetooth.BluetoothGatt;
 import android.bluetooth.BluetoothGattCallback;
